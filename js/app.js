@@ -1,6 +1,6 @@
 // Mano Firme · Alquiler de herramientas — demo de Varyon.
 // Todo corre en el navegador: el estado se guarda en localStorage y se reinicia desde la barra superior.
-const CASO_URL = "/proyectos/alquiler"; // URL del caso en la web de Varyon
+const CASO_URL = "https://varyon.com.ar/proyectos/alquiler"; // caso de estudio en la web de Varyon
 const KEY = "manofirme-demo-v1";
 const $app = document.getElementById("app");
 const $modal = document.getElementById("modal");
